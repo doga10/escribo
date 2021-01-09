@@ -7,6 +7,7 @@ Exemplos:
 
 > #### Run Tests
 
+- Run command `npm i`
 - Run command `npm run test`
 
 > #### Start Project
